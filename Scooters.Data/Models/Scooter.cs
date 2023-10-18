@@ -1,4 +1,4 @@
-namespace Scooters.Models;
+namespace Scooters.Data.Models;
 public class Scooter
 {
     public Guid Id { get; set; }
